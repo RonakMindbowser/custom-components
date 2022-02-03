@@ -34,18 +34,20 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "reusable-components",
+    "custom-components"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RonakMindbowser/react-native-awesome-module.git"
+    "url": "git+https://github.com/RonakMindbowser/custom-components.git"
   },
   "author": "RonakKotak-MindBowser <ronak.kotak@mindbowser.com> (https://github.com/RonakMindbowser)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RonakMindbowser/react-native-awesome-module/issues"
+    "url": "https://github.com/RonakMindbowser/custom-components/issues"
   },
-  "homepage": "https://github.com/RonakMindbowser/react-native-awesome-module#readme",
+  "homepage": "https://github.com/RonakMindbowser/custom-components#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
