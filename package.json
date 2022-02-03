@@ -1,5 +1,5 @@
 {
-  "name": "react-native-awesome-module",
+  "name": "react-native-custom-components",
   "version": "0.1.0",
   "description": "Custom Package",
   "main": "lib/commonjs/index",
