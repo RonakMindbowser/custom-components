@@ -1,5 +1,5 @@
 {
-  "name": "react-native-custom-components",
+  "name": "react-native-reusable-custom-components",
   "version": "0.1.0",
   "description": "Custom Package",
   "main": "lib/commonjs/index",
@@ -36,7 +36,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/RonakMindbowser/react-native-awesome-module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonakMindbowser/react-native-awesome-module.git"
+  },
   "author": "RonakKotak-MindBowser <ronak.kotak@mindbowser.com> (https://github.com/RonakMindbowser)",
   "license": "MIT",
   "bugs": {
@@ -143,5 +146,8 @@
         }
       ]
     ]
+  },
+  "directories": {
+    "example": "example"
   }
 }
